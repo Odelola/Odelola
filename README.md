@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Odelola
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning NextJs, Firebase and other core technologies used in the Front End Industry
-- 💞️ I’m looking to collaborate on projects, it can also be remote work.
-- 📫 You can reach me at https://odelolaoluwaseyi.com
+- 👀 I’m a Creative Web Developer, working with HTML/CSS, NextJS/NuxtJS to bring UI to life
+- 🌱 I’m currently learning React Native, ThreeJS, Flutter.
+- 💞️ I’m look forward to work on great projects, and collaboratte with more people.
+- 📫 You can reach me at hello.odelola@gmail.com
 
 <!---
 Odelola/Odelola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
