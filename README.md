@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odelola
-- 👀 I’m a Creative Web Developer, working with HTML/CSS, NextJS/NuxtJS to bring UI to life
-- 🌱 I’m currently learning React Native, ThreeJS, Flutter.
+- 👀 I’m a Creative Web Developer, working with NextJS/NuxtJS, ThreeJS to bring UI to life
+- 🌱 I’m currently learning Ruby On Rails and 3D Modelling.
 - 💞️ I look forward to work on great projects, and collaboratte with more people.
 - 📫 You can reach me at hello.odelola@gmail.com
 
