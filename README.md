@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Odelola
-- 👀 I’m a Creative Web Developer, working with NextJS/NuxtJS, ThreeJS to bring UI to life
-- 🌱 I’m currently learning Ruby On Rails and 3D Modelling.
+- 👋 Hi, I’m Odelola
+- 👀 I’m a Creative Web Developer, working with NextJS
+- 🌱 I’m currently learning Spring Boot and Ruby On Rails.
 - 💞️ I look forward to work on great projects, and collaboratte with more people.
-- 📫 You can reach me at hello.odelola@gmail.com
+- 📫 You can reach me at https://odelola.me
 
 <!---
 Odelola/Odelola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
