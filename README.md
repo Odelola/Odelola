@@ -1,6 +1,11 @@
 ## Hi there, I'm Odelola 👋
 
 <p align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/17b5fe6b-e169-4b4e-83c3-22e23e1e0344" alt="HEYOOOOOOO">
+</p>
+
+
+<p align="center">
   <a href="https://odelola.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://x.com/intent/follow?screen_name=I_N_T_E_G_R_A_L&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/extwitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
     <a href="https://www.hackerrank.com/profile/_inertia_" target="_blank"><img alt="X" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
